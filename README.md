@@ -22,14 +22,8 @@ The analysis is based on the IBM HR Analytics Employee Attrition & Performance d
 - Jupyter Notebook
 - Libraries: pandas, numpy, sklearn, matplotlib, seaborn 
 
-## Installation
-Instructions to set up the project environment. For example:
-```bash
-git clone https://github.com/[your-username]/HR_Analytics_Final_Project.git
-cd HR_Analytics_Final_Project
-pip install -r requirements.txt
-
 
 ## Conclusions & Summary
 
 A state of employee burnout has high costs for the company due to loss of knowledge and a high cost for training employees in their place. With the help of the data kept on employees, it is possible to get a forecast for employee burnout. It is necessary to take care of the balance of the data that train the model and that are used to test the model. There is no single factor that can predict employee burnout, rather, the parameters that correlate relatively highly with employee burnout are salary (of its types) and involvement and job satisfaction, which implies that when an employee shows signs of burnout, the company must not only look at the benefits and the salary, but it is necessary to ensure that the employee feels engaged and satisfied in his role in the company and in the team, to balance the factors and identify where the employee expresses dissatisfaction. Of course, in order to test the real feasibility of using models to identify attrition factors in high-tech employees, real data from many employees in the global industry must be used. When receiving a data model, it is important to look On the distribution of the data and its meaning, by correctly understanding the data, it is possible to eliminate irrelevant columns (such as unique data for each record or uniform data for all records), columns that provide information of the same meaning for each record, and it is also possible to create new columns that can provide us with additional information and help the model predict the results better.
+
